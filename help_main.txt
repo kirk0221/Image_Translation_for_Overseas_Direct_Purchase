@@ -1,0 +1,7 @@
+main - 겹치는 영역 확인하여 겹치는 경우 겹치는 색상으로 통일
+
+main_black - 배경이 흰색인 경우 검은색으로 통일
+
+main_contrast_ratio - 배경에 맞춰 contrast ratio(명암비)가 4.5이상인 경우인 색상으로 선택
+
+main_margin_5 - 최빈값으로만 색상 추출
